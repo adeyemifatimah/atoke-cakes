@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    background-color: palevioletred;
+    height: 110px;
+}
+nav img{
+    width: 100px;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 15px;
+    font-size: 20px;
+    display: inline-block;
+}
+nav ul li a{
+    color: maroon;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: magenta;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+}
